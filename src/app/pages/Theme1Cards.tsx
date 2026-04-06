@@ -146,31 +146,12 @@ export default function Theme1Cards() {
           <p className="text-green-500 font-bold text-2xl mb-1" style={{ fontFamily: 'cursive' }}>
             Scroll!
           </p>
-          <svg
-            width="120"
-            height="60"
-            viewBox="0 0 120 60"
-            className="mx-auto"
-          >
-            <path
-              d="M 10 30 Q 60 10, 110 30"
-              stroke="#22c55e"
-              strokeWidth="3"
-              fill="none"
-              strokeLinecap="round"
-            />
-            <path
-              d="M 10 30 L 5 20 M 10 30 L 5 40"
-              stroke="#22c55e"
-              strokeWidth="3"
-              strokeLinecap="round"
-            />
-            <path
-              d="M 110 30 L 115 20 M 110 30 L 115 40"
-              stroke="#22c55e"
-              strokeWidth="3"
-              strokeLinecap="round"
-            />
+          <svg width="140" height="80" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg" className="mx-auto mt-[-16px]" style={{ transform: 'scaleY(-1)' }}>
+            <path d="M10 30C43.3333 43.3333 76.6667 43.3333 110 30" stroke="#22C55E" strokeWidth="3" strokeLinecap="round"/>
+            <path d="M6 30L11 40ZM6 30L11 20Z" fill="#22C55E"/>
+            <path d="M11 40L6 30L11 20" stroke="#22C55E" strokeWidth="3" strokeLinecap="round"/>
+            <path d="M113 30L108 40ZM113 30L108 20Z" fill="#22C55E"/>
+            <path d="M108 40L113 30L108 20" stroke="#22C55E" strokeWidth="3" strokeLinecap="round"/>
           </svg>
         </div>
 

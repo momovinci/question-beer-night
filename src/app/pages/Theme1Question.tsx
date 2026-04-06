@@ -31,7 +31,7 @@ export default function Theme1Question() {
   }
 
   return (
-    <div className="min-h-screen bg-white flex items-center justify-center p-8">
+    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center p-8">
       <div className="max-w-5xl w-full -mt-20">
         <button
           onClick={() => navigate("/")}
