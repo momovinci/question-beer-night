@@ -43,11 +43,11 @@ export interface Respondent {
 }
 
 export const respondents: Respondent[] = [
-  { id: 1, name: "홍윤정 튜터", photo: "https://i.ibb.co/bjK7gBSw/Property-1-1.png" },
-  { id: 2, name: "남궁찬양 튜터", photo: "https://i.ibb.co/50w50yz/Property-1-1.png" },
-  { id: 3, name: "정기식 튜터", photo: "https://i.ibb.co/kskMX95c/Property-1-1.png" },
-  { id: 4, name: "김다희 튜터", photo: "https://i.ibb.co/35q55hRV/Property-1-1.png" },
-  { id: 5, name: "박소연 튜터", photo: "https://i.ibb.co/JjJFK1yr/Property-1-1.png" },
-  { id: 6, name: "김훈 튜터", photo: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhc2lhbiUyMGZlbWFsZSUyMHByb2Zlc3Npb25hbHxlbnwxfHx8fDE3NzU0ODY5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" },
-  { id: 7, name: "송조해 튜터", photo: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhc2lhbiUyMG1hbGUlMjBwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzU0ODY5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" },
+  { id: 1, name: "홍윤정 튜터", photo: "https://i.ibb.co/Lz4NBqyd/Property-1-1-1.png" },
+  { id: 2, name: "남궁찬양 튜터", photo: "https://i.ibb.co/HpHm14ZZ/Property-1-1-3-1.png" },
+  { id: 3, name: "정기식 튜터", photo: "https://i.ibb.co/DPrpqcZ8/Property-1-1-1-1.png" },
+  { id: 4, name: "김다희 튜터", photo: "https://i.ibb.co/gF7CtF3F/Property-1-1-2-1.png" },
+  { id: 5, name: "박소연 튜터", photo: "https://i.ibb.co/1JrftXCy/Property-1-1-4-2.png" },
+  { id: 6, name: "김훈 튜터", photo: "https://i.ibb.co/rGHkHcFn/Property-1-1-6.png" },
+  { id: 7, name: "송조해 튜터", photo: "https://i.ibb.co/nMN3y73W/Property-1-1-5.png"}
 ];
