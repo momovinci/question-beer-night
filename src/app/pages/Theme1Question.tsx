@@ -76,7 +76,7 @@ export default function Theme1Question() {
               }}
             >
               <h2
-                className="text-4xl text-center leading-tight"
+                className="text-4xl text-center leading-tight whitespace-pre-wrap"
                 style={{
                   fontFamily: "Poppins",
                   fontWeight: 600,
